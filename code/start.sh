@@ -1,0 +1,2 @@
+#!/bin/sh
+~/go/src/zlint-go/code/verify/verify /data/archive/censys-certificates/ioqhe2qn4mc02brp-certificates.20170723T082310.json ~/csv/verify.csv 1000000 > ~/logs/verify.log 2> ~/logs/verify_err.log
