@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:creator>mweise</dc:creator>
+  <dc:title>Experiment for "Tracking Certificate Misissuance in the Wild"</dc:title>
+  <dc:subject>Reproduction of the work in "Tracking Certificate Misissuance in the Wild" by "Deepak Kumar, Zhengping Wang, Matthew Hyder, Joseph Dickinson, Gabrielle Beck, David Adrian, Joshua Mason, Zakir Durumeric, J. Alex Halderman, Michael Bailey"</dc:subject>
+  <dc:description>Not all results from the original paper were reproducible. Since one of the authors provided me with the infos needed and verified the correctness of the snapshot, a possible reason for my different reproduced results may be caused by implementation errors and/or different interpretations of the table data in the original paper.</dc:description>
+  <dc:date>2019-02-15T23:32:00.6192661</dc:date>
+  <dc:type>Reproduction</dc:type>
+  <dc:language>English</dc:language>
+  <dc:identifier>https://checkresearch.org/Experiment/View/ed8561aa-540e-42d9-8b4f-d328a3fc2d5c</dc:identifier>
+  <dc:identifier>https://github.com/CheckResearch/TrackingCertificateMisissuanceintheWild_Experiment_01</dc:identifier>
+  <dc:relation>10.1109/SP.2018.00015</dc:relation>
+  <dc:source>http://doi.ieeecomputersociety.org/10.1109/SP.2018.00015</dc:source>
+  <dc:source>https://github.com/zmap/zlint/tree/7057a53b1d1daf9ee70547255cf2fa516ff50c3c</dc:source>
+</metadata>
